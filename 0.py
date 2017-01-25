@@ -1,7 +1,7 @@
 pao = 0.12
 broa = 1.50
 valor = 0
-
+#comentario
 def fatura(quantPao, quantBroa):
     valor = (pao*quantPao)+(broa*quantBroa)
     print("A fatura do dia é: ", valor, "R$")
